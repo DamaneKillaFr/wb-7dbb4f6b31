@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.3.0</title>
-      <pubDate>Fri, 13 Nov 2026 11:51:57 -0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>Version 0.3.1</title>
+      <pubDate>Fri, 13 Nov 2026 11:52:36 -0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Automatic updates, new tab page, static app icon, notes folder ordering]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.0/Workbench.zip" sparkle:edSignature="ieSmq/Gemhjft5osvo4x3gqdDPuYOR/G4Idcubxvs0g/uN2dM6NY5OrjYhLPTqc0Wme7/yQ+ZBz7ZIGALjX8Cw==" length="4467116" type="application/octet-stream"/>
+      <description><![CDATA[Update test]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.1/Workbench.zip" sparkle:edSignature="BSgjXZUIk7T2EYsQbgCA8mIrcIgAAvlyy9oUqqb7UvTuxz/KbEHRiuI+GWdMYPCox8yB/AOA7i5JgoBgh92dBg==" length="4467116" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
