@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Workbench</title>
+    <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Fri, 13 Nov 2026 11:51:57 -0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Automatic updates, new tab page, static app icon, notes folder ordering]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.0/Workbench.zip" sparkle:edSignature="ieSmq/Gemhjft5osvo4x3gqdDPuYOR/G4Idcubxvs0g/uN2dM6NY5OrjYhLPTqc0Wme7/yQ+ZBz7ZIGALjX8Cw==" length="4467116" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
