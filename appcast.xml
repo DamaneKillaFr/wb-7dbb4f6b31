@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.3.6</title>
-      <pubDate>Sun, 15 Nov 2026 05:05:43 -0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <title>Version 0.4.0</title>
+      <pubDate>Sun, 15 Nov 2026 06:55:36 -0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Opening notes never changes any file, notes never rewritten or moved without being asked]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.6/Workbench.zip" sparkle:edSignature="UfQ+g/KNGliJ8DMhlxGcrK8EPJ0TpIOxTB+s/SctPPVNIJEkA2qHjfwgj6mpr+F43+Vjs3TF1ws4UbQyY9gKAg==" length="4476476" type="application/octet-stream"/>
+      <description><![CDATA[Dashboard note panels you can tick off, resize and reorder; theme and appearance changes apply instantly]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.4.0/Workbench.zip" sparkle:edSignature="VBWAlV3B90rb+BjD74PbuU9s327k+m5HPHIb3Pp9qbqjOd7hGjEZ8G9lEtLMcQ4yCwgYSPzRNUw8mmVkr+6oCQ==" length="4560658" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
