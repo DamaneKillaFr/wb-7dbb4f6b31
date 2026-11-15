@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.3.5</title>
-      <pubDate>Sun, 15 Nov 2026 04:50:15 -0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <title>Version 0.3.6</title>
+      <pubDate>Sun, 15 Nov 2026 05:05:43 -0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Ignore notes folders in temporary locations, daily backup of notes, standalone check]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.5/Workbench.zip" sparkle:edSignature="Rp5wiNgs5Y8WlxATO6bNTFL9FTzUeakKyykMsvFSQ7hYez9EMSSKSyX4M9tkaoUJpdsPk2kBB6r/6gYdp0mvCw==" length="4475270" type="application/octet-stream"/>
+      <description><![CDATA[Opening notes never changes any file, notes never rewritten or moved without being asked]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.3.6/Workbench.zip" sparkle:edSignature="UfQ+g/KNGliJ8DMhlxGcrK8EPJ0TpIOxTB+s/SctPPVNIJEkA2qHjfwgj6mpr+F43+Vjs3TF1ws4UbQyY9gKAg==" length="4476476" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
