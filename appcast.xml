@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.4.1</title>
-      <pubDate>Sun, 15 Nov 2026 08:38:42 -0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <title>Version 0.5.0</title>
+      <pubDate>Sun, 15 Nov 2026 09:15:24 -0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Table button in the Notes toolbar]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.4.1/Workbench.zip" sparkle:edSignature="icKn1TaCsmI9IiX2PI4rWEu5CPG5SfWa+1BsRMS5LSZ/NECVeaQoMKPOGHDD9PHtYPfqgO0G9PzLklRaycrmCg==" length="4560825" type="application/octet-stream"/>
+      <description><![CDATA[Internet speed test (gauge, ping, download, upload); beta mode in Settings hides Reminders, Freight and Print by default]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.5.0/Workbench.zip" sparkle:edSignature="+3m1O40XmsrQS0eMitv2wKB13yO5aEXJy65aaEQh/Uvva3OvAT+2T9OAYitO8JZSe/F4K8BJRHQWPd7CBDajAg==" length="4632739" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
