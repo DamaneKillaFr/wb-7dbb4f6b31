@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.6.1</title>
-      <pubDate>Sat, 21 Nov 2026 04:36:00 -0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <title>Version 0.6.2</title>
+      <pubDate>Sun, 22 Nov 2026 00:20:52 -0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Restored the app; exactly one copy of Workbench is kept on the Mac]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.6.1/Workbench.zip" sparkle:edSignature="0pUZDi4ac/n9GUXxFvMxyrDeu/DpAdePQFFGoShcpd1np0zHhXnBzy4xZSSsAgVgRCzb2Edhjvlvwr/5zIbwCA==" length="6574393" type="application/octet-stream"/>
+      <description><![CDATA[Dictation: one-time Accessibility ask, no repeat pop-ups]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.6.2/Workbench.zip" sparkle:edSignature="NR/B8uVElJYXVDoSVK1777LaNjOnEx+Ybb3mb5HiJvWMxfh5mgqaR9bSXIg3IRbXflqNojguA1bsZwLzX1BODw==" length="6574354" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
