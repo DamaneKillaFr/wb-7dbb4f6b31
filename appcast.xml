@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.6.2</title>
-      <pubDate>Sun, 22 Nov 2026 00:20:52 -0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <title>Version 0.7.0</title>
+      <pubDate>Sun, 22 Nov 2026 04:12:50 -0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Dictation: one-time Accessibility ask, no repeat pop-ups]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.6.2/Workbench.zip" sparkle:edSignature="NR/B8uVElJYXVDoSVK1777LaNjOnEx+Ybb3mb5HiJvWMxfh5mgqaR9bSXIg3IRbXflqNojguA1bsZwLzX1BODw==" length="6574354" type="application/octet-stream"/>
+      <description><![CDATA[New Downloader tab: yt-dlp with a full settings screen, queue, history and setup]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.7.0/Workbench.zip" sparkle:edSignature="SGksQZlEXklZBzYNQy/R8w7s+Iz5yBEzdjA2Uy7RCpehSuM/Vndssj4geDZKDgMTTJpP3u2tzYgrsA56+HIiCg==" length="6892944" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
