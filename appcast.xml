@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.7.2</title>
-      <pubDate>Sun, 22 Nov 2026 04:31:09 -0000</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <title>Version 0.8.0</title>
+      <pubDate>Mon, 23 Nov 2026 00:42:35 -0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Downloader: quick Save to menu; version shown at top of Settings; updates checked every 30 minutes]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.7.2/Workbench.zip" sparkle:edSignature="+zSTJBbfkrdtKsKFNTcDVVJgzwpENvcVnU7HKRsdYzuQ1Hpzw7S3m4bw81xorQOBAM20/iqjaSU9g94TaP5ECw==" length="6914617" type="application/octet-stream"/>
+      <description><![CDATA[Touch ID only locking, unlock on the note itself; choose which day templates start pinned; Collections gather a template's notes from every day; works on macOS 15]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.0/Workbench.zip" sparkle:edSignature="PWAPx3a2p3NLjQwHWCRl0nkzyKaB4EvCVlfberaiYCZNkziIF4hr8YWQvkNJ5HoBVZ6fnzuHnlENc9EOM5OWBw==" length="6929155" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
