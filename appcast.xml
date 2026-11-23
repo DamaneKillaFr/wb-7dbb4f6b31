@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.9.0</title>
-      <pubDate>Mon, 23 Nov 2026 11:08:53 -0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <title>Version 0.10.0</title>
+      <pubDate>Mon, 23 Nov 2026 11:34:20 -0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Real tables in notes with add row and column buttons; copy-section buttons no longer cover text; new Accounts tool (map, chain, impact, checks); Sona vocabulary imported]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.9.0/Workbench.zip" sparkle:edSignature="TCtbE9HIwhLxaSs6lNjayuchqmTNm8epf8Cy+3FLYOic8VP1y2Vf1o0LxbWWnURLHzuUSgp5x11p9aKNO+zACw==" length="7212425" type="application/octet-stream"/>
+      <description><![CDATA[Accounts: smooth node dragging, new Explore (left-to-right expanding) and Matrix views; dashboard is now a widget board with an Add widget gallery (vocabulary, dictation, accounts, calendar, case converter, timer, today and more); table caret sized to the text]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.10.0/Workbench.zip" sparkle:edSignature="z6cr6V3XLJF9XCOQwwfmZOxY0lYTMA4ER/mM/ybFkrwsr9eOSX5o1v7dwGhxQfs8v54jf5an2GKnPlY4V48BBw==" length="7380330" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
