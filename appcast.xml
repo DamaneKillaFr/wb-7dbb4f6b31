@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.8.2</title>
-      <pubDate>Mon, 23 Nov 2026 01:03:07 -0000</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <title>Version 0.9.0</title>
+      <pubDate>Mon, 23 Nov 2026 11:08:53 -0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Collections rows show the day as heading; reopen last session prompt after closing the last window; runs on macOS 15 (minimum version fixed)]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.2/Workbench.zip" sparkle:edSignature="Oo1l9xstt2uDHT6OnGq2nDA8BdSfbpk4sJhpapDikiRq7GQHIPMJ0rbqea0DdtOs2F6zBRyL7Jomb78p/8GgDw==" length="6948948" type="application/octet-stream"/>
+      <description><![CDATA[Real tables in notes with add row and column buttons; copy-section buttons no longer cover text; new Accounts tool (map, chain, impact, checks); Sona vocabulary imported]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.9.0/Workbench.zip" sparkle:edSignature="TCtbE9HIwhLxaSs6lNjayuchqmTNm8epf8Cy+3FLYOic8VP1y2Vf1o0LxbWWnURLHzuUSgp5x11p9aKNO+zACw==" length="7212425" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
