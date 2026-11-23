@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.8.1</title>
-      <pubDate>Mon, 23 Nov 2026 00:54:56 -0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[No keychain prompt for Touch ID notes; Collections is its own sidebar folder with its own options; Pinned follows Create in the day-template menu]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.1/Workbench.zip" sparkle:edSignature="38+yA/ykY7f1/b7uuGZBXv1t7IPluOOOZkdy4kToctHw7WKCXZnaJF5mlFfVehJp9Xslny9sokXXoeNG2RZbBg==" length="6941243" type="application/octet-stream"/>
+      <title>Version 0.8.2</title>
+      <pubDate>Mon, 23 Nov 2026 01:03:07 -0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Collections rows show the day as heading; reopen last session prompt after closing the last window; runs on macOS 15 (minimum version fixed)]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.2/Workbench.zip" sparkle:edSignature="Oo1l9xstt2uDHT6OnGq2nDA8BdSfbpk4sJhpapDikiRq7GQHIPMJ0rbqea0DdtOs2F6zBRyL7Jomb78p/8GgDw==" length="6948948" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
