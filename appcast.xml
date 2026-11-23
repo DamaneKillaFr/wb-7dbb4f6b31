@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.8.0</title>
-      <pubDate>Mon, 23 Nov 2026 00:42:35 -0000</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <title>Version 0.8.1</title>
+      <pubDate>Mon, 23 Nov 2026 00:54:56 -0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Touch ID only locking, unlock on the note itself; choose which day templates start pinned; Collections gather a template's notes from every day; works on macOS 15]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.0/Workbench.zip" sparkle:edSignature="PWAPx3a2p3NLjQwHWCRl0nkzyKaB4EvCVlfberaiYCZNkziIF4hr8YWQvkNJ5HoBVZ6fnzuHnlENc9EOM5OWBw==" length="6929155" type="application/octet-stream"/>
+      <description><![CDATA[No keychain prompt for Touch ID notes; Collections is its own sidebar folder with its own options; Pinned follows Create in the day-template menu]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.8.1/Workbench.zip" sparkle:edSignature="38+yA/ykY7f1/b7uuGZBXv1t7IPluOOOZkdy4kToctHw7WKCXZnaJF5mlFfVehJp9Xslny9sokXXoeNG2RZbBg==" length="6941243" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
