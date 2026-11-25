@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.10.0</title>
-      <pubDate>Mon, 23 Nov 2026 11:34:20 -0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <title>Version 0.11.0</title>
+      <pubDate>Wed, 25 Nov 2026 07:15:22 -0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Accounts: smooth node dragging, new Explore (left-to-right expanding) and Matrix views; dashboard is now a widget board with an Add widget gallery (vocabulary, dictation, accounts, calendar, case converter, timer, today and more); table caret sized to the text]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.10.0/Workbench.zip" sparkle:edSignature="z6cr6V3XLJF9XCOQwwfmZOxY0lYTMA4ER/mM/ybFkrwsr9eOSX5o1v7dwGhxQfs8v54jf5an2GKnPlY4V48BBw==" length="7380330" type="application/octet-stream"/>
+      <description><![CDATA[Sequence: fixed the Add Bar crash; click the timeline to place a playhead (Today returns to now) with a red line for the real time; a + button on every workstream to add a bar, milestone or task, with grouped Bars / Milestones / Tasks lists and notes on every item and bar; the detail panel floats so nothing moves when it opens; drag to resize the left rail, workstream column and detail panel; sidebar selector like Notes; colour dot is display only; dropdown only when a workstream has content]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.11.0/Workbench.zip" sparkle:edSignature="tMxueAyExSKXEmTccVmj3baWeEOjtMBF8yTZAHmFa/WLAcDnKaHApfLbeMuEr4qUPtzA8ZAytF+ZocANN7/OBg==" length="7493918" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
