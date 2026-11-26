@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.12.0</title>
-      <pubDate>Thu, 26 Nov 2026 02:06:45 -0000</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <title>Version 0.13.0</title>
+      <pubDate>Thu, 26 Nov 2026 02:38:47 -0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Accounts mapping: connect two modules from a corner button with a line that snaps on; undo and redo (Command Z) on the map and everywhere in Accounts; forwards, devices and hosting links; types and dropdowns you can edit; quick add, find and filter; register ID and name fields; automatic backups]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.12.0/Workbench.zip" sparkle:edSignature="CQcdZa0mtGpPnCUhCSkVQvcBJTD5t6htC88vvy+JcRrJpe12vX8GVWtvwVjYhQbOIHfIzHMCX55Y1rRH34TmDg==" length="7845963" type="application/octet-stream"/>
+      <description><![CDATA[Accounts map: drag a box to select and move many, align them, collapsible groups; every arrow reads A to B; email onto hosting picks Hosted on; lines join the nearest edge and avoid other modules; labels on top; simpler right-click menu; green ticks and red delete or cancel; new Guide page]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.13.0/Workbench.zip" sparkle:edSignature="SIrfd+KknhLzdpF3YP3cG3NfgkUeEMxhfjlDSDBSz5QWG/EtY71KiF6YO6Om1ap85R6w9ABq1vqnO59CpPRoBA==" length="8019563" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
