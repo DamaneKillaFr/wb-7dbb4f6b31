@@ -3,13 +3,13 @@
   <channel>
     <title>Workbench</title>
     <item>
-      <title>Version 0.11.0</title>
-      <pubDate>Wed, 25 Nov 2026 07:15:22 -0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <title>Version 0.12.0</title>
+      <pubDate>Thu, 26 Nov 2026 02:06:45 -0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Sequence: fixed the Add Bar crash; click the timeline to place a playhead (Today returns to now) with a red line for the real time; a + button on every workstream to add a bar, milestone or task, with grouped Bars / Milestones / Tasks lists and notes on every item and bar; the detail panel floats so nothing moves when it opens; drag to resize the left rail, workstream column and detail panel; sidebar selector like Notes; colour dot is display only; dropdown only when a workstream has content]]></description>
-      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.11.0/Workbench.zip" sparkle:edSignature="tMxueAyExSKXEmTccVmj3baWeEOjtMBF8yTZAHmFa/WLAcDnKaHApfLbeMuEr4qUPtzA8ZAytF+ZocANN7/OBg==" length="7493918" type="application/octet-stream"/>
+      <description><![CDATA[Accounts mapping: connect two modules from a corner button with a line that snaps on; undo and redo (Command Z) on the map and everywhere in Accounts; forwards, devices and hosting links; types and dropdowns you can edit; quick add, find and filter; register ID and name fields; automatic backups]]></description>
+      <enclosure url="https://github.com/DamaneKillaFr/wb-7dbb4f6b31/releases/download/v0.12.0/Workbench.zip" sparkle:edSignature="CQcdZa0mtGpPnCUhCSkVQvcBJTD5t6htC88vvy+JcRrJpe12vX8GVWtvwVjYhQbOIHfIzHMCX55Y1rRH34TmDg==" length="7845963" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
